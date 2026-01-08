@@ -1,0 +1,8 @@
+langchain-openai
+langchain-community
+langgraph
+pydantic
+dotenv 
+ipykernel
+jupyter
+
